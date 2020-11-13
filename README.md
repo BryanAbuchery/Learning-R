@@ -8,3 +8,6 @@ R for Reproducible Bioinformatics.
 * [Programming with R](http://swcarpentry.github.io/r-novice-inflammation/).
 
 * [R for Reproducible  Scientific Analyses](http://swcarpentry.github.io/r-novice-gapminder/).
+
+
+Challenges and Learning Exercises can be followed through the above provided links.
