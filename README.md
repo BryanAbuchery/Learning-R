@@ -1,5 +1,5 @@
 # Learning-R
-R for reproducible Bioinformatics
+R for Reproducible Bioinformatics.
 
 ## Useful Links
 
